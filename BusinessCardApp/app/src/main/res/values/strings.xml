@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="name">Ansal Pandey</string>
+    <string name="business">Android Developer | Community Builder</string>
+    <string name="phone_number">+91 9652365887</string>
+    <string name="email_text">pandeyansal77@gmail.com</string>
+    <string name="share_text">ansalpandey.github.io</string>
+</resources>
